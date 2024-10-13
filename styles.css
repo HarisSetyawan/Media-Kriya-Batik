@@ -17,7 +17,7 @@ header {
     color: rgb(255, 255, 255);
     text-align: center;
     padding: 35px 0;
-    font-size: 20px;
+    font-size: 18px;
     font-weight: bold;
     line-height: 1;
     box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.7);
@@ -45,7 +45,7 @@ main {
     max-width: 600px;
     margin-left: auto;
     margin-right: auto;
-    font-size: 14px;
+    font-size: 12px;
     line-height: 1;
     color: #ffffff; 
     overflow: visible; /* Pastikan overflow terlihat */
@@ -56,7 +56,7 @@ main {
     content: '';
     position: absolute; /* Pastikan posisi gambar adalah absolute */
     bottom: -82px; /* Memindahkan gambar ke bawah sehingga melayang */
-    left: -40px; /* Memindahkan gambar ke kiri */
+    left: -25px; /* Memindahkan gambar ke kiri */
     width: 170px; /* Sesuaikan ukuran awan */
     height: 170px; /* Sesuaikan ukuran awan */
     background-image: url('awan-left.png'); /* Ganti dengan path file gambar awan Anda */
@@ -71,7 +71,7 @@ main {
     content: '';
     position: absolute; /* Pastikan posisi gambar adalah absolute */
     top: -82px; /* Memindahkan gambar ke atas sehingga melayang */
-    right: -40px; /* Memindahkan gambar ke kanan */
+    right: -25px; /* Memindahkan gambar ke kanan */
     width: 170px; /* Sesuaikan ukuran awan */
     height: 170px; /* Sesuaikan ukuran awan */
     background-image: url('awan-right.png'); /* Ganti dengan path file gambar awan Anda */
